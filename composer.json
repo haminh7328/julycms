@@ -33,7 +33,7 @@
     },
     "autoload": {
         "files": [
-            "app/Global/constants.php",
+            "app/Global/july_config.php",
             "app/Global/helpers.php"
         ],
         "psr-4": {
